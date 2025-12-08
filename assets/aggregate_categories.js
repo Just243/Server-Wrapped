@@ -1,0 +1,1 @@
+export const AGGREGATE_CATEGORIES = ['minecraft:mined', 'minecraft:picked_up', 'minecraft:used', 'minecraft:broken', 'minecraft:crafted', 'minecraft:killed', 'minecraft:killed_by', 'minecraft:dropped'];
